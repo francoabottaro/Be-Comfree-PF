@@ -1,0 +1,2529 @@
+[
+  {
+    "Name": "Boca Juniors Shirt",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712761387/Be%20comfree/camiseta-boca-junior5_uuffqc.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712761391/Be%20comfree/camiseta-boca-junior6_abjgjo.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712761395/Be%20comfree/camiseta-boca-junior7_zjv1dm.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712761400/Be%20comfree/camiseta-boca-junior8_qm57xp.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712761369/Be%20comfree/camiseta-boca-junior_sw9uvd.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712761373/Be%20comfree/camiseta-boca-junior2_ccasyg.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712761378/Be%20comfree/camiseta-boca-junior3_fu9ifz.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712761382/Be%20comfree/camiseta-boca-junior4_art43c.jpg"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue"],
+    "Material": ["Cotton"],
+    "Price": 349.99,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "This product, made with 100% recycled materials, represents just one of our solutions to end plastic waste."
+  },
+  {
+    "Name": "Shirt Gildan adult T",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443438/Be%20comfree/ufsvmzy6k2ltaf3r4qhf.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443438/Be%20comfree/qyqyx60pyujohf0dvnl3.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443439/Be%20comfree/qem3ijdlryfysaza2aib.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black"],
+    "Material": ["Cotton"],
+    "Price": 2.99,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "Shirt Gildan adult T"
+  },
+  {
+    "Name": "Shirts Casual",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443440/Be%20comfree/aknfoyusebi8zrznru92.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443441/Be%20comfree/aj0pv4jm9gexnghw7swk.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443442/Be%20comfree/oabjqldwsnnbzan0qg8d.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443443/Be%20comfree/mm2kpfggogvvycdl2q1w.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue"],
+    "Material": ["Cotton Blend", "Linen", "Polyester"],
+    "Price": 16.99,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "QZH. DUAO Mens 70s Disco Linen Shirts Casual Paisley Tops Floral Vintage Long Sleeve Shirt"
+  },
+  {
+    "Name": "Gildan Heavy",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443444/Be%20comfree/lzhiuvnqkhtfmyouwktm.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443444/Be%20comfree/czdmgt9jdyznnjum2alw.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443445/Be%20comfree/uz8c6hcoyxbry18p0pia.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443445/Be%20comfree/ade1wl4afe2votnfht0c.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443446/Be%20comfree/vtgm9bhu6gpsujerenag.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White"],
+    "Material": ["Cotton", "Jersey", "Polyester"],
+    "Price": 2.52,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "Gildan Heavy Cotton T-Shirt"
+  },
+  {
+    "Name": "Old Navy Men's Classic",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443447/Be%20comfree/ozbivjtv3cui9ssarpxw.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443447/Be%20comfree/jpt5eelhgr9c3ns2gowb.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443448/Be%20comfree/rcvipaki04eu71psxtym.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443449/Be%20comfree/bafhctj3hbzjpjnabmjj.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue"],
+    "Material": ["Cotton"],
+    "Price": 13.49,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "Old Navy Men's Classic Fit Everyday Shirt"
+  },
+  {
+    "Name": "Double Pump Mens Shirts",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443449/Be%20comfree/kum3dtwhpcjpbrkcgmiv.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443450/Be%20comfree/xq29u4v6ftldc6bimemz.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Green"],
+    "Material": ["Cotton"],
+    "Price": 66.09,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "Double Pump Mens Button Down Shirts Cotton Long Sleeve Shirts Regular Fit"
+  },
+  {
+    "Name": "Men's Camp Collar",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443451/Be%20comfree/y4bwusgljs1fwsk5gf6b.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443451/Be%20comfree/yhwbxddix7grujmqtqb2.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443452/Be%20comfree/zhl3u7rvwterhuiqptn1.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443453/Be%20comfree/easbpsyeq8sm6ponugkr.jpg"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Brown"],
+    "Material": ["Linen"],
+    "Price": 60.09,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "Men's Camp Collar Linen-Blend Shirt"
+  },
+  {
+    "Name": "Shirt Real Essentials",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443453/Be%20comfree/mldocqzzjykgoetydxad.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443454/Be%20comfree/xmgmujinogabrqn3hcvw.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443455/Be%20comfree/zls3mb0mdnu98iv5mriq.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443455/Be%20comfree/ptnqidrrcgtus9puvhnb.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Brown", "Green", "Black", "Red"],
+    "Material": ["Polyester", "Spandex"],
+    "Price": 34.99,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "Real Essentials: Men's Dry-Fit UV Moisture Wicking UPF 50+ SPF Sun Protective Fishing Hiking Swim Long Sleeve Shirt"
+  },
+  {
+    "Name": "Men's Shirt Relaxed",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443456/Be%20comfree/kzyyq73c4u0et8jpuefw.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443456/Be%20comfree/fmvuzafbqwxk0w0uiw2c.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443457/Be%20comfree/tzonmcaruw6jjpsosyc9.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443458/Be%20comfree/nl1j1fmbklyptabxpbkd.jpg"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Brown"],
+    "Material": ["Cotton"],
+    "Price": 19.09,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "Men's Shirt Relaxed Nirvana Graphic Tee"
+  },
+  {
+    "Name": "Shirt Essentials Men's",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443458/Be%20comfree/osfhm6dz02iytr17gymx.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443459/Be%20comfree/zovggepvsm08tbmm14fw.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443460/Be%20comfree/r5wjubsw1rlglbmzpey4.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443461/Be%20comfree/xkwsdn060mj7ncrnj7of.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue"],
+    "Material": ["Flannel", "Fleece"],
+    "Price": 10.99,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "Amazon Essentials Men's Long-Sleeve Flannel Shirt (Available in Big & Tall)"
+  },
+  {
+    "Name": "Shirt Sleeve Button-Up",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443462/Be%20comfree/yocgyr5khp57kwdyujxh.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443462/Be%20comfree/kfa1dimn1nuscwkbrm2e.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443463/Be%20comfree/yizd2oqqrxmn2cryrvjz.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443463/Be%20comfree/tlxfr4c8iil4ezvazob2.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Gray", "Blue"],
+    "Material": ["Polyester", "Spandex"],
+    "Price": 14.99,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "32 Degrees Men's Stretch Woven Short Sleeve Button-Up Iron"
+  },
+  {
+    "Name": "Men's Colour Block Lucky",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443464/Be%20comfree/ph91facqstvbvuir2qev.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443464/Be%20comfree/ekrecddtibsn3htukrxq.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443465/Be%20comfree/k3yozaktvgreortas8vk.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443465/Be%20comfree/s07lwyfg7crtg0ndvmzt.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Green"],
+    "Material": ["Polyester"],
+    "Price": 12.09,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "Men's Colour Block Lucky Clover Print Button Up Shirt"
+  },
+  {
+    "Name": "T Shirt",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443467/Be%20comfree/cekgljtkkynb7k1qvet0.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443467/Be%20comfree/svuyrns0kkqkggobtvdx.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443468/Be%20comfree/wxbrtywpeqqwa2v1aqsz.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443469/Be%20comfree/a8en8tezuihfxeisd949.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Gray", "Blue", "Red", "Purple"],
+    "Material": ["Polyester", "Spandex"],
+    "Price": 49.02,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "Men's Real Essentials Men's Dry Fit Active T Shirt S Set 6"
+  },
+  {
+    "Name": "Hawaiian Shirt",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443470/Be%20comfree/ryqrudokbl4vciydjsnk.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443470/Be%20comfree/hnkkzs958bo9l5up0f4t.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443472/Be%20comfree/bg6htoeol1zyfxioe90j.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443472/Be%20comfree/c43orgyexlsgqjfbrj3o.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue"],
+    "Material": ["Polyester", "Spandex"],
+    "Price": 24.99,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "SheLucki Hawaiian Shirt for Men, unisex Summer Beach Casual Short Sleeve Button Down Shirts, Printed Palmshadow Clothing"
+  },
+  {
+    "Name": "Men's Sonoma Shirt",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443473/Be%20comfree/lpllshphwztvjkzowv60.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443473/Be%20comfree/nphh012rpnjl4spdu3fk.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443474/Be%20comfree/qitmxlt0ahjpeefcti5o.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443474/Be%20comfree/s3og36tbs2fy4g9nrrwk.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue", "Black", "Gray", "White"],
+    "Material": ["Cotton", "Cotton Blend", "Spandex"],
+    "Price": 34.99,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "Men's Sonoma Goods for Life Slim Perfect-Length Button-Down Shirt"
+  },
+  {
+    "Name": "Old Navy Men's Shirt",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443475/Be%20comfree/jbgq9fvzfbu4kbuzjqqz.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443475/Be%20comfree/faxvtjfeclx8bjfibpg9.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443476/Be%20comfree/cvhj7kk4uukxml8dm76q.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443477/Be%20comfree/vbftbthqfhoxmexleu8g.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White"],
+    "Material": ["Cotton"],
+    "Price": 14.99,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "Old Navy Men's Classic Fit Textured Dobby Everyday Shirt"
+  },
+  {
+    "Name": "Men's Sweater Polo",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443477/Be%20comfree/s7ndcizdrizv6fauum56.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443478/Be%20comfree/xlkccicth0n1bzuvsxxa.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443478/Be%20comfree/mivhixdis3dlawpj2wrs.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Green"],
+    "Material": ["Cotton", "Rayon"],
+    "Price": 70.09,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "Men's Plisse Button-Through Sweater Polo in Light Green Abercrombie & Fitch"
+  },
+  {
+    "Name": "Shirt Milano",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443479/Be%20comfree/rirjgttl0u9vayn6zn6n.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443479/Be%20comfree/durux3bnzn2nzaxduasl.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443481/Be%20comfree/fw6p1w4wo08rzdnzyfa4.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White", "Blue", "Orange", "Black"],
+    "Material": ["Cotton Blend"],
+    "Price": 55.09,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "Shirt Milano di Rouge | Men's Lux Signature Tee Tan"
+  },
+  {
+    "Name": "Magellan Outdoors Men's Shirt",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443482/Be%20comfree/tdmen2dfmn4nvzhllfco.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443483/Be%20comfree/poxddqyvrxqx3vasutqm.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443483/Be%20comfree/d2ax00pw2v1x5kxydgqd.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue"],
+    "Material": ["Polyester"],
+    "Price": 24.99,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "Magellan Outdoors Men's FishGear Local State Texas Print Short Sleeve Button-Down Shirt, at Academy Sports"
+  },
+  {
+    "Name": "Gymshark Crest T-Shirt",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443484/Be%20comfree/rouyo84avzrbxrgrtxek.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443485/Be%20comfree/aghhorbhyh9svy87qwsv.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443485/Be%20comfree/u5ltflyguttltnpfspom.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443486/Be%20comfree/a6wmp04bx7vrmu3lhkhv.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black"],
+    "Material": ["Cotton"],
+    "Price": 19.89,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "Gymshark Crest T-Shirt"
+  },
+  {
+    "Name": "T-Shirt Hollister",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443488/Be%20comfree/diqgmddep71gltdryewb.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443489/Be%20comfree/lyrhkjtvud3aptkwysis.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443489/Be%20comfree/m9x2htir4xsbdt6flqyb.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443490/Be%20comfree/dpxod6cpj2iq0sccobqu.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black"],
+    "Material": ["Cotton"],
+    "Price": 6.99,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "Men's Icon Crew T-Shirt from Hollister"
+  },
+  {
+    "Name": "Men's Henley Pocket T-Shirt",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443490/Be%20comfree/a1xtdfxeqljojh3lzyxx.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443491/Be%20comfree/toppimw3rthfpv9jwvjt.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443491/Be%20comfree/rcb63jjsnewp9wurgtg1.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443492/Be%20comfree/wecvicuuxhosvqgzmydo.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Brown", "Purple"],
+    "Material": ["Linen"],
+    "Price": 53.59,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "32 Degrees Men's Everyday Henley Pocket T-Shirt"
+  },
+  {
+    "Name": "Shirt Slim for Men",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443493/Be%20comfree/jsztpfoxrru0akedfnft.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443493/Be%20comfree/kfuywiqwk97t1f5dsi1j.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443494/Be%20comfree/dv6wf3u7geehl1h2dexs.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue", "Gray", "Black", "Red"],
+    "Material": ["Spandex"],
+    "Price": 34.99,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "Everyday Bedford Casual Shirt Slim for Men by Bonobos"
+  },
+  {
+    "Name": "Men's Classic Shirt",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443495/Be%20comfree/bi9sujnphtvbf5g0ma5b.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443496/Be%20comfree/aprpdzu5frevuk97ttey.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black"],
+    "Material": ["Spandex"],
+    "Price": 26.99,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "J.Crew Factory Men's Classic Linen-Blend Shirt"
+  },
+  {
+    "Name": "T-Shirt Mens Dry-Fit",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443496/Be%20comfree/xevysbhygkeaoyn2n4ix.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443497/Be%20comfree/t9qsgffujapmukmjfikx.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443498/Be%20comfree/ftbutquxykegqtvjdo8m.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443498/Be%20comfree/glwwojhfk26sxyhjjikc.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue"],
+    "Material": ["Cotton"],
+    "Price": 19.09,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "Real Essentials: Mens Dry-Fit Moisture Wicking Active Athletic Performance Crew T-Shirt, Men"
+  },
+  {
+    "Name": "Shirt H&M",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443499/Be%20comfree/rbqta5lfrjcuaaxysq3c.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443500/Be%20comfree/bn2mzv0ehdi3q6qgfqhq.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443500/Be%20comfree/olpeoic9ydwbcoxgjlb8.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443501/Be%20comfree/vd9ahjgwgaruzh8dfepa.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue"],
+    "Material": ["Cotton"],
+    "Price": 14.99,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "Men - Black Loose Fit Patterned Resort Shirt H&M"
+  },
+  {
+    "Name": "Amazon Essentials Coat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443501/Be%20comfree/tmqmftgyrbvbnp9nuwwd.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443502/Be%20comfree/zgcrbegkopwnp7ecg9mc.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443502/Be%20comfree/sgbczqvwyz1dvwyl1nbl.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443503/Be%20comfree/lfal76hlng2dwi3kjexg.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black"],
+    "Material": ["Polyester", "Wool Blend"],
+    "Price": 61.99,
+    "Category": "Coat",
+    "Gender": "Men",
+    "Description": "Amazon Essentials Men's Short-Sleeve Chambray Coat"
+  },
+  {
+    "Name": "Old Men's Coat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443504/Be%20comfree/vlaclbcsyfguzrchcebd.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443504/Be%20comfree/prbmr3hvhqm5ywzlixnr.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443505/Be%20comfree/kyztblp1wnnsk3qronib.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443506/Be%20comfree/wp0vfb1qenyqm74blota.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Gray", "Black"],
+    "Material": ["Cotton", "Cotton Blend", "Polyester", "Wool", "Wool Blend"],
+    "Price": 147.89,
+    "Category": "Coat",
+    "Gender": "Men",
+    "Description": "Old Navy Men's Classic Fit Everyday Coat"
+  },
+  {
+    "Name": "Springrain Mens Coat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443507/Be%20comfree/zloq3z2rmhzj9oemmysv.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443507/Be%20comfree/faim03dpfvwigzpmcgfn.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443509/Be%20comfree/hhug3ak6uhuockwjy6ul.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black"],
+    "Material": [
+      "Acrylic Fiber",
+      "Cotton Blend",
+      "Nylon",
+      "Polyester",
+      "Rayon",
+      "Wool",
+      "Wool Blend"
+    ],
+    "Price": 111.99,
+    "Category": "Coat",
+    "Gender": "Men",
+    "Description": "Springrain Mens Notched Lapel Single Breasted Long Pea Coat Trench Coat (Black Large)"
+  },
+  {
+    "Name": "Men's Wool Coat Hoodie",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443509/Be%20comfree/pmhltyov1ylugbus0gur.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443510/Be%20comfree/e7yeyapab8lsz8kig6gf.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443510/Be%20comfree/u5gry7u5gtjsje7aezqb.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443511/Be%20comfree/egnprrulgupqh9xfupx5.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black"],
+    "Material": ["Cotton Blend", "Down", "Polyester"],
+    "Price": 124.59,
+    "Category": "Coat",
+    "Gender": "Men",
+    "Description": "PRIJOUHE Men's Wool Coat Hoodie Long Trench Coat Cotton Casual Woollen Overcoat Jacket"
+  },
+  {
+    "Name": "Kenneth Car Coat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443511/Be%20comfree/kbz7sniiizohnq4blbjl.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443512/Be%20comfree/lplnzdhornuxjsr2jacv.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443513/Be%20comfree/cueklqbftmobyvrpbsy7.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black"],
+    "Material": [
+      "Acrylic Fiber",
+      "Cotton Blend",
+      "Jersey",
+      "Microfiber",
+      "Nylon",
+      "Polyester"
+    ],
+    "Price": 295.09,
+    "Category": "Coat",
+    "Gender": "Men",
+    "Description": "Kenneth Cole Men's Wool Button Car Coat"
+  },
+  {
+    "Name": "Men's Winter Coat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443514/Be%20comfree/pdphobpl2fhxxnlpmctz.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443514/Be%20comfree/hrhpjui6ceudghqtzqod.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443516/Be%20comfree/v6htcbxmdk7tbuqh3u7p.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Gray"],
+    "Material": ["Polyester", "Wool Blend"],
+    "Price": 46.99,
+    "Category": "Coat",
+    "Gender": "Men",
+    "Description": "MOERDENG Men's Winter Coat Down Waterproof Thickened Parka Jacket with Artificial Fur Detachable Hood"
+  },
+  {
+    "Name": "Dorsey Car Coat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443516/Be%20comfree/wjv4bsufrrp4pzlcgwdv.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443517/Be%20comfree/fzdippyzgvgpkx7qck5y.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443517/Be%20comfree/kxlwinymz8dswasuecnt.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443518/Be%20comfree/t3pzmy5bzesp5aqauqi9.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black", "Brown"],
+    "Material": [
+      "Acrylic Fiber",
+      "Faux Fur",
+      "Faux Suede",
+      "Polyester",
+      "Shearling"
+    ],
+    "Price": 195.09,
+    "Category": "Coat",
+    "Gender": "Men",
+    "Description": "Marc New York Men's Dorsey Car Coat"
+  },
+  {
+    "Name": "Mens Trench Coat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443519/Be%20comfree/qsu2azturjm8xssrp6a3.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443519/Be%20comfree/eqywjtdq9sbp5sk0qaw1.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443520/Be%20comfree/rzjfnbrgdfjoibzumcbw.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443520/Be%20comfree/iju4zxgjvg6wztjmey7j.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Gray", "Black"],
+    "Material": ["Mesh", "Nylon", "Polyester"],
+    "Price": 59.99,
+    "Category": "Coat",
+    "Gender": "Men",
+    "Description": "ZIWOCH Mens Trench Coat Wool Blend Hoodie Long Jacket Full Zip Winter Classic Business Overcoat"
+  },
+  {
+    "Name": "Guess Overcoat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443521/Be%20comfree/uezvewm1z7lemkqmaeas.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443521/Be%20comfree/m3oogxpdbg13ngiyuv2s.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443523/Be%20comfree/k9ipbmgs9hn3pe3l0h0v.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Beige"],
+    "Material": ["Cotton Blend", "Nylon", "Taffeta"],
+    "Price": 39.99,
+    "Category": "Coat",
+    "Gender": "Men",
+    "Description": "Guess Men's Faux-Shearling Overcoat"
+  },
+  {
+    "Name": "Columbia Jacket",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443523/Be%20comfree/eydycjfjaqvdmw2mkz9l.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443524/Be%20comfree/r0eh2xd0fmmch5o6ibxs.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443524/Be%20comfree/mihbkqnvxun4vbgiowkt.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443525/Be%20comfree/rwamxbmlwnmz9p9rhoet.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black"],
+    "Material": ["Fleece", "Polyester"],
+    "Price": 75.09,
+    "Category": "Coat",
+    "Gender": "Men",
+    "Description": "Columbia Men's Watertight II Jacket"
+  },
+  {
+    "Name": "Old Men's topcoat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443525/Be%20comfree/mpy5lksi4z8vebotxjqq.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443526/Be%20comfree/smmymyj6ntanz7imb1is.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443526/Be%20comfree/ttgdsvyorqd9wk55ir0t.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black"],
+    "Material": ["Wool", "Wool Blend"],
+    "Price": 99.99,
+    "Category": "Coat",
+    "Gender": "Men",
+    "Description": "Old Navy Men's Button-Front topcoat"
+  },
+  {
+    "Name": "Hawke & Jacket",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443527/Be%20comfree/vkufawrskt0v51druu9g.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443527/Be%20comfree/sm9isj5cinpuqxg7mo0g.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443528/Be%20comfree/buwjb3w7k07kypog1t5i.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black"],
+    "Material": ["Cotton", "Cotton Blend", "Polyester"],
+    "Price": 30.99,
+    "Category": "Coat",
+    "Gender": "Men",
+    "Description": "Hawke & Co. Men's Sherpa Lined Hooded Puffer Jacket"
+  },
+  {
+    "Name": "Men's Coat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443529/Be%20comfree/ufhw1ngbrqrqwwowrukm.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443530/Be%20comfree/qbhyvjfvblumbfbn7abz.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443530/Be%20comfree/y8crfzwjape4n6od8g8m.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443531/Be%20comfree/ehxxnycits6zgy42w9dt.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Gray"],
+    "Material": ["Wool Blend"],
+    "Price": 79.98,
+    "Category": "Coat",
+    "Gender": "Men",
+    "Description": "Men's Apt. 9 Wool Zip Front Coat"
+  },
+  {
+    "Name": "Plus Coat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443531/Be%20comfree/ek9udxm03ghj4lylobrb.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443532/Be%20comfree/s3cfqk1uxyri7ahpw2uq.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443532/Be%20comfree/luigllyf1nilzba12dat.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443533/Be%20comfree/ggvsmhav1x2fcwkzvqox.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black"],
+    "Material": ["Microfiber", "Wool", "Wool Blend"],
+    "Price": 59.99,
+    "Category": "Coat",
+    "Gender": "Men",
+    "Description": "How'on Men's Plus Cotton Warm Fur Collar Casual Button Military Cargo Jacket Outwear Parka Winter Quilted Coat"
+  },
+  {
+    "Name": "Men's Coats",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443533/Be%20comfree/l5gdsucb9rfpyxteggnl.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443534/Be%20comfree/wqgdjww8f1dvvvvvhssm.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443535/Be%20comfree/ibufkm1okindqap8fbfg.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Gray"],
+    "Material": ["Down", "Wool"],
+    "Price": 27.46,
+    "Category": "Coat",
+    "Gender": "Men",
+    "Description": "Wantdo Men's Wool Blend Peacoat Jackets Casual Winter Coats"
+  },
+  {
+    "Name": "Coat Overcoat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443535/Be%20comfree/flrepjrn5ntfd7iiavzo.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443536/Be%20comfree/hyucfchn1rhkenlmcl4r.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443536/Be%20comfree/bi1s93pvvscj8zvofttx.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443537/Be%20comfree/kydb6lxyqueb8yrs8plo.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black"],
+    "Material": ["Polyester", "Wool Blend"],
+    "Price": 154.99,
+    "Category": "Coat",
+    "Gender": "Men",
+    "Description": "Alpine Swiss Luke Wool Mens Tailored 37 Walker Jacket Top Coat Car Coat Overcoat"
+  },
+  {
+    "Name": "Coat Slim Fit",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443537/Be%20comfree/dv9oc8aalo0vw4oidlec.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443538/Be%20comfree/tsg6cvpvpkf3rj1c8ps4.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443539/Be%20comfree/yc42awnweau1tqggisl0.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443539/Be%20comfree/ogyan0mw0id6pkxj8qlg.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue", "Yellow"],
+    "Material": ["Acrylic Fiber", "Nylon", "Polyester", "Satin", "Spandex"],
+    "Price": 47.51,
+    "Category": "Coat",
+    "Gender": "Men",
+    "Description": "Ruikar Mens Autumn and Winter Solid Slim Fit Robe Knitted Coat Down Winter Coats for Men Mens Sport Coat Bubble Jacket Men Mens Trench Coat Slim Fit"
+  },
+  {
+    "Name": "Marc Overcoat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443540/Be%20comfree/yssarmfroxv1fbgrayco.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443540/Be%20comfree/lvr1hkiywlkzayytzg6f.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443541/Be%20comfree/fz4jihjy38e4csgrperf.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443542/Be%20comfree/twfkwgmcqkscd7ejgtlm.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black", "Blue"],
+    "Material": ["Polyester", "Spandex", "Wool"],
+    "Price": 18.09,
+    "Category": "Coat",
+    "Gender": "Men",
+    "Description": "Marc New York Men's Wexford Herringbone Overcoat"
+  },
+  {
+    "Name": "Underwear Calvin Clein",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443542/Be%20comfree/eze2yzt27iqfqszwcktg.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443543/Be%20comfree/oevommdgydvxi9trmtks.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443543/Be%20comfree/m6vetf57jbhsfmqeu9xb.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443544/Be%20comfree/nicjiytpdidl32zfcuuk.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black"],
+    "Material": ["Cotton Blend", "Spandex"],
+    "Price": 37.34,
+    "Category": "Underwear",
+    "Gender": "Men",
+    "Description": "Marc New York Men's underwear Calvin Clein"
+  },
+  {
+    "Name": "Tagless Boxers",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443546/Be%20comfree/cur7kgzmyg9bgl0qbm6a.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443547/Be%20comfree/mrfexouq1glh3nkbl37f.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443547/Be%20comfree/b5ohe93tl8wni4yayzhc.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443548/Be%20comfree/hu5tpd3nrv1plmxjp4bo.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue", "White", "Red"],
+    "Material": ["Cotton Blend", "Polyester"],
+    "Price": 19.18,
+    "Category": "Underwear",
+    "Gender": "Men",
+    "Description": "Confort Soft 5 Tagless Boxers"
+  },
+  {
+    "Name": "Boxer Brief",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443549/Be%20comfree/z5zlh7x5mxjoo5siy5q3.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443549/Be%20comfree/iqft6v8pmm3ls2nbl4ox.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443550/Be%20comfree/ijngrku3or6dulpdof4t.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443551/Be%20comfree/qza2ust3qafgybeaoorw.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue", "Gray", "Black"],
+    "Material": ["Polyester", "Spandex"],
+    "Price": 22.99,
+    "Category": "Underwear",
+    "Gender": "Men",
+    "Description": "Calvin Klein Men's Cotton Stretch Boxer Brief"
+  },
+  {
+    "Name": "Boxer Men's",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443551/Be%20comfree/wvknwjjrc97vuttwdq4j.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443552/Be%20comfree/hqywkpqfmwxfs4lltjvk.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443552/Be%20comfree/ewinafv1yagkmb4brwil.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Gray"],
+    "Material": ["Polyester", "Spandex"],
+    "Price": 19.99,
+    "Category": "Underwear",
+    "Gender": "Men",
+    "Description": "Hanes Men's Tartan Boxer with Inside Exposed Waistband"
+  },
+  {
+    "Name": "Leg Boxer",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443553/Be%20comfree/urjyotz9s8rqof55s1k8.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443554/Be%20comfree/zztbb1zdtysrn9ik6quo.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443555/Be%20comfree/o4cm27d7wjo8o8uyxcm9.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443556/Be%20comfree/u0synf3or9ss80vgvlml.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Red", "Blue", "Black", "Green", "Gray"],
+    "Material": ["Cotton Blend", "Polyester"],
+    "Price": 32.99,
+    "Category": "Underwear",
+    "Gender": "Men",
+    "Description": "Hanes X-Temp Total Support Pouch Men's Long Leg Boxer Briefs, Anti-Chafing Underwear"
+  },
+  {
+    "Name": "Mens Boxerjock",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443556/Be%20comfree/pywdns5xch1tmwc5u7ib.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443557/Be%20comfree/kaaznpcsx1ehzzl7rpw7.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443557/Be%20comfree/q60jhb2cojwrbod7nnj9.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443558/Be%20comfree/izuiri0tbkgyy3nokgn8.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue"],
+    "Material": ["Cotton", "Cotton Blend", "Polyester"],
+    "Price": 17.99,
+    "Category": "Underwear",
+    "Gender": "Men",
+    "Description": "Under Armour Tech 6in Mens Boxerjock"
+  },
+  {
+    "Name": "Boxer Briefs",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443558/Be%20comfree/ojo001atlcfeop8asnvy.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443559/Be%20comfree/eswzj1n5trupwxotskak.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443560/Be%20comfree/hacglrvtpfz9jp6ay3fi.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443561/Be%20comfree/cpbolt1knyej9w5x1lbt.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue", "Black", "Red"],
+    "Material": ["Cotton Blend", "Polyester"],
+    "Price": 13.09,
+    "Category": "Underwear",
+    "Gender": "Men",
+    "Description": "Hanes Men's Value Assorted Boxer Briefs"
+  },
+  {
+    "Name": "Knit Boxers",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443562/Be%20comfree/ehdfc6wod52qsjlz3ord.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443563/Be%20comfree/nmoyuuixb4asql9nexhj.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443563/Be%20comfree/upcw1uuth94dhg312myw.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443564/Be%20comfree/lqdaspglx2kkvwnjzncq.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White", "Black", "Blue"],
+    "Material": ["Cotton Blend", "Polyester"],
+    "Price": 21.09,
+    "Category": "Underwear",
+    "Gender": "Men",
+    "Description": "Hanes Men's Tagless ComfortSoft Knit Boxers with ComfortSoft Waistband Assorted"
+  },
+  {
+    "Name": "Men's Woven Boxers",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443565/Be%20comfree/u5vpxuqiolurdphiu5j2.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443565/Be%20comfree/vhikjjxlqupppdb6xkwp.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443566/Be%20comfree/jri9eix5mhi2pn6j8lng.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443566/Be%20comfree/oy4jvkq5l6qpegichnap.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White", "Yellow", "Blue"],
+    "Material": ["Organic Cotton"],
+    "Price": 9.99,
+    "Category": "Underwear",
+    "Gender": "Men",
+    "Description": "Fruit of The Loom Men's Woven Boxers"
+  },
+  {
+    "Name": "Tagless Briefs",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443567/Be%20comfree/mqp5ty6ep572hnkh0tbv.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443568/Be%20comfree/wncbq8ugwmjlf6gsdiuc.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443568/Be%20comfree/wcwux4ti4hufn630xfps.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443569/Be%20comfree/sqwttrwqxwszrngbrm54.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White"],
+    "Material": ["Cotton Blend", "Polyester"],
+    "Price": 21.29,
+    "Category": "Underwear",
+    "Gender": "Men",
+    "Description": "Hanes Ultimate Men's Tagless Briefs"
+  },
+  {
+    "Name": "Men's Underwear",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443569/Be%20comfree/wnd9w8wmnx9ig6seyekt.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443570/Be%20comfree/uwzrzdf5wfr8w2khkxdr.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443570/Be%20comfree/rqbnue1zdvsyvuwbcbfj.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443571/Be%20comfree/gagbbbxe3qxw0uu2fcp7.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black", "Blue"],
+    "Material": ["Polyester", "Spandex"],
+    "Price": 34.95,
+    "Category": "Underwear",
+    "Gender": "Men",
+    "Description": "Men's Cotton Broadcloth Front Open Trunks | Men's Underwear"
+  },
+  {
+    "Name": "Fruit Boxers",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443572/Be%20comfree/pe7ufry1usipkljslzin.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443573/Be%20comfree/ku1cie2hz6f8n7jmofve.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443573/Be%20comfree/et2hr5lycrthxd3epn0k.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443573/Be%20comfree/qo7moeon7bahrhcychbc.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White", "Gray"],
+    "Material": ["Polyester", "Spandex"],
+    "Price": 21.99,
+    "Category": "Underwear",
+    "Gender": "Men",
+    "Description": "Fruit of The Loom Men's Woven Boxers"
+  },
+  {
+    "Name": "Boxer Briefs",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443574/Be%20comfree/aode2bykhtois6xlla5u.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443575/Be%20comfree/ieor058sq88qvqpprnol.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443575/Be%20comfree/cnz7hpisfflckd5j8owq.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443576/Be%20comfree/clywzajkui6e5ecxsokh.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue", "Gray"],
+    "Material": ["Cotton Blend", "Polyester", "Spandex"],
+    "Price": 14.98,
+    "Category": "Underwear",
+    "Gender": "Men",
+    "Description": "Large Puma Men's Sportluxe 5 Pair Performance Boxer Briefs"
+  },
+  {
+    "Name": "Boxer Brief",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443577/Be%20comfree/ckn6znj6liyycjkn6fxd.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443577/Be%20comfree/l5izm8sntsw1oobftkxo.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443578/Be%20comfree/so8ysr3jopsbjrn6wbg5.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443579/Be%20comfree/cts8eboklaw7urekgmla.jpg"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White"],
+    "Material": ["Cotton"],
+    "Price": 19.99,
+    "Category": "Underwear",
+    "Gender": "Men",
+    "Description": "Joseph Abboud Men's Underwear Boxer Brief Collection"
+  },
+  {
+    "Name": "Men's 5pk Boxer",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443579/Be%20comfree/pbl1whaaousuaq4n6ytz.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443580/Be%20comfree/ezsdka65cxnwkthnhdmb.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443581/Be%20comfree/vwnt3lmujdzvuiihmkcp.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black"],
+    "Material": ["Cotton"],
+    "Price": 41.99,
+    "Category": "Underwear",
+    "Gender": "Men",
+    "Description": "Member's Mark Men's 5pk Boxer Brief"
+  },
+  {
+    "Name": "Fruit Briefs",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443582/Be%20comfree/mrmuyenopxbbld5wwok6.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443582/Be%20comfree/mvlfyuyifqexb9bojvac.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443583/Be%20comfree/mvebxt3jjnwqqarncfij.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Red", "Blue"],
+    "Material": ["Spandex"],
+    "Price": 28.89,
+    "Category": "Underwear",
+    "Gender": "Men",
+    "Description": "Fruit of The Loom Men's White Briefs"
+  },
+  {
+    "Name": "Tagless",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443584/Be%20comfree/eajtpekgsmnfkerfinog.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443584/Be%20comfree/bjdip8tc8mzgupckktfx.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443585/Be%20comfree/fhivtglsefbtbxmnwcsc.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443586/Be%20comfree/ua49gquspcvps52klv9e.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue"],
+    "Material": ["Cotton Blend", "Spandex"],
+    "Price": 16.48,
+    "Category": "Underwear",
+    "Gender": "Men",
+    "Description": "Hanes Men's Tagless White Briefs with ComfortFlex Waistband"
+  },
+  {
+    "Name": "Essential Boxers",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443586/Be%20comfree/livqlrliud8iquzjvlpn.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443587/Be%20comfree/csrag3aibkbrrxlynqcl.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443587/Be%20comfree/y25mctzpkbgbcbecdvqf.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443588/Be%20comfree/el7ehmnj1soj32vrvbx3.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White"],
+    "Material": ["Cotton", "Cotton Blend", "Polyester"],
+    "Price": 20.09,
+    "Category": "Underwear",
+    "Gender": "Men",
+    "Description": "Patagonia Men's Essential Boxers"
+  },
+  {
+    "Name": "Boxer Short",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443589/Be%20comfree/qahiydqtuhzuzygjnnhy.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443589/Be%20comfree/ilxcwnsdcxyxndkddfec.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443590/Be%20comfree/tlrtrw8xqvdd6nitfxnb.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443590/Be%20comfree/pfrm0s5d0wcmpv6my3py.jpg"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black", "Gray", "Blue"],
+    "Material": ["Cotton", "Cotton Blend", "Polyester"],
+    "Price": 25.59,
+    "Category": "Underwear",
+    "Gender": "Men",
+    "Description": "Hanes Men's Originals Moisture Wicking Boxer Short"
+  },
+  {
+    "Name": "Hanes Briefs",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443591/Be%20comfree/duo1omjpeh27onbyhudu.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443591/Be%20comfree/t9rj0wyykfktwjetbkb7.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443592/Be%20comfree/fx8jonji7spbgpiz1act.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue", "Gray"],
+    "Material": ["Polyester", "Spandex"],
+    "Price": 49.59,
+    "Category": "Underwear",
+    "Gender": "Men",
+    "Description": "Hanes Men's Briefs"
+  },
+  {
+    "Name": "Men's Pants Black",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443592/Be%20comfree/dainl79hyuknoiytuxcr.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443593/Be%20comfree/xsawmf2kwnowx6ghx88p.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443593/Be%20comfree/lcriuc058iqrtzbs5thj.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443594/Be%20comfree/ptymu5gxzujqiokuqbel.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black"],
+    "Material": ["Cotton", "Cotton Blend", "Jersey", "Polyester"],
+    "Price": 14.99,
+    "Category": "Pants",
+    "Gender": "Men",
+    "Description": "Men's Pants Black Champions"
+  },
+  {
+    "Name": "Men's Pants Black Adidas",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443594/Be%20comfree/muquudcblhunoisouenb.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443595/Be%20comfree/eljdslajqcunv6u0zdhz.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443595/Be%20comfree/t2zh6ytmwet8w0brivlq.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443596/Be%20comfree/meddtsxwvyaxvmgkgips.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black"],
+    "Material": ["Fleece", "Polyester"],
+    "Price": 33.75,
+    "Category": "Pants",
+    "Gender": "Men",
+    "Description": "Men's Pants Black Adidas. Contour Pouch 3 Trunks - Chrome Blue/Deep cobalt"
+  },
+  {
+    "Name": "Jersey Pants",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443597/Be%20comfree/thl7ckte9c3f2wgvj2wh.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443598/Be%20comfree/leqypcrjzzy6wq0n5hmi.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443598/Be%20comfree/czdpcjlwgirnaive4lcy.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443599/Be%20comfree/gcakbsr7ae4xhn8bmppv.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue"],
+    "Material": ["Cotton Blend", "Linen"],
+    "Price": 29.99,
+    "Category": "Pants",
+    "Gender": "Men",
+    "Description": "Champion Men's Open Bottom Jersey Pants"
+  },
+  {
+    "Name": "Stripes Track Pants",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443599/Be%20comfree/dwr2m75er8cn7weyv6va.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443600/Be%20comfree/dccpcvrsvws3bssidztx.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443600/Be%20comfree/e4hquye0z4ws1jyhbzpu.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443601/Be%20comfree/zdzmehzhsmmag4jiiriu.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Brown"],
+    "Material": ["Cotton"],
+    "Price": 15.09,
+    "Category": "Pants",
+    "Gender": "Men",
+    "Description": "Adidas Men's Warm-Up Tricot Regular 3-Stripes Track Pants"
+  },
+  {
+    "Name": "PASLTER Short",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443602/Be%20comfree/pw3jzdwjf1r3zccl9q27.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443602/Be%20comfree/wlgv58dznoizoz4qhtky.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443603/Be%20comfree/wrugqrivrfnogbtfomk2.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443603/Be%20comfree/yvlqp3flyrn1tk463hdp.jpg"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Gray", "Brown", "Blue"],
+    "Material": ["Fleece", "Polyester"],
+    "Price": 32.99,
+    "Category": "Short",
+    "Gender": "Men",
+    "Description": "PASLTER Mens Casual Linen Short Loose Fit Elastic Drawstring Waist Straight-Legs Summer Yoga Beach Long Short"
+  },
+  {
+    "Name": "Amazon Jogger Short",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443604/Be%20comfree/pqgcgitfoai4bv17kzca.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443604/Be%20comfree/jahgkhhyu6la1qsf0qf2.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443605/Be%20comfree/pljk20zyjyzpaashoskw.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Green"],
+    "Material": ["Cotton Blend", "Linen"],
+    "Price": 18.29,
+    "Category": "Short",
+    "Gender": "Men",
+    "Description": "Amazon Essentials Men's Straight-Fit Jogger Short"
+  },
+  {
+    "Name": "Men's 9 Shorts",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443606/Be%20comfree/unddqxi0xbsqdn7nhdnk.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443606/Be%20comfree/ogo5pbctbmrnlk49utzw.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443607/Be%20comfree/f4dxfew4hqiblvvvzo76.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443608/Be%20comfree/w4ijpk79n1pzygdnnbb0.jpg"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Green"],
+    "Material": ["Fleece", "Polyester"],
+    "Price": 50.09,
+    "Category": "Short",
+    "Gender": "Men",
+    "Description": "Real Essentials: Men's 9 Fleece Casual Lounge Athletic Shorts-Regular & Big-Tall Sizes"
+  },
+  {
+    "Name": "Gymshark Arrival 5 Shorts",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443608/Be%20comfree/lssvlziwxb9wq3yjlei4.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443609/Be%20comfree/gq9b1euz6ela2epquk7d.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443609/Be%20comfree/j77votna6mvloaq4nsyb.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443610/Be%20comfree/tvt0k4kfljslnkcbnele.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Green"],
+    "Material": ["Cotton Blend", "Linen"],
+    "Price": 28.09,
+    "Category": "Short",
+    "Gender": "Men",
+    "Description": "Gymshark Arrival 5 Shorts - Core Olive"
+  },
+  {
+    "Name": "Men's Short",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443611/Be%20comfree/u1sva3war1uzgduetqlx.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443611/Be%20comfree/rxb5kebre40aq0c9vif8.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443612/Be%20comfree/awpmoeucsw04o3ym1sdq.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443612/Be%20comfree/fafiodwbz9og5ekczm9m.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Brown"],
+    "Material": ["Cotton"],
+    "Price": 50.09,
+    "Category": "Short",
+    "Gender": "Men",
+    "Description": "Men's Retro Mesh Short Abercrombie & Fitch"
+  },
+  {
+    "Name": "Gymreapers Shorts",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443613/Be%20comfree/qvyslm04jtg8dqwlrxsx.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443614/Be%20comfree/omw6rjliabzei6mah60i.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443615/Be%20comfree/sqsdrugvovsoq4c25xiw.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443616/Be%20comfree/spayhd4tzc6ihstmwrxl.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443616/Be%20comfree/mtujzrzbvuxsn1b56phg.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Green", "Blue", "Red", "Black"],
+    "Material": ["Fleece", "Polyester"],
+    "Price": 25.09,
+    "Category": "Short",
+    "Gender": "Men",
+    "Description": "Gymreapers Dynamic Training Shorts Mens Powerlifting, Sweat Wicking Training Shorts"
+  },
+  {
+    "Name": "Men's Short",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443618/Be%20comfree/d7nxbuynqsjey5grlc1t.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443618/Be%20comfree/txgkmbe3b3nt3tb74lrn.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443619/Be%20comfree/s7qcayown0hp8pgp9xly.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443620/Be%20comfree/kfkowvfdnqurkzzecmir.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black", "Gray", "Blue"],
+    "Material": ["Cotton"],
+    "Price": 35.99,
+    "Category": "Short",
+    "Gender": "Men",
+    "Description": "Men's Retro Mesh Short Abercrombie & Fitch"
+  },
+  {
+    "Name": "DSG Men's Short",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443621/Be%20comfree/xuthksnownox4tboqbv7.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443621/Be%20comfree/xxvrp2stjehwgeuwntph.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443622/Be%20comfree/vawe8bjwsd7zbqc0esfg.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443622/Be%20comfree/wsurqtyu1p9mrxt4jpwq.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue", "Green"],
+    "Material": ["Cotton", "Cotton Blend", "Polyester"],
+    "Price": 49.95,
+    "Category": "Short",
+    "Gender": "Men",
+    "Description": "DSG Men's All Purpose Training Short"
+  },
+  {
+    "Name": "Shorts Pockets",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443624/Be%20comfree/tencvigkg5uy6ovza6pv.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443625/Be%20comfree/qkbg1enfubbilk6l8za0.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443625/Be%20comfree/pzm7d2pesgm8wffve9th.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443626/Be%20comfree/qrus02fn7raygvw4csz8.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443627/Be%20comfree/zfuyeoxayr3gv83xhnfi.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black", "Gray", "Blue"],
+    "Material": ["Cotton Blend", "Linen"],
+    "Price": 11.99,
+    "Category": "Short",
+    "Gender": "Men",
+    "Description": "Men's Real Essentials Men's Active Athletic Performance Shorts Pockets"
+  },
+  {
+    "Name": "Rei Co-op Shirts",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443627/Be%20comfree/vvugvk2zai31nrg5xvmp.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443629/Be%20comfree/qp2bqwwkek5ri0syflu3.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443630/Be%20comfree/jeamptqwfuefxu2il9vr.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443630/Be%20comfree/dew1ysjsnt7grfvgqrna.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443631/Be%20comfree/g4rsamvdnrhw7nue2xjn.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White", "Purple", "Black", "Blue"],
+    "Material": ["Cotton", "Cotton Blend"],
+    "Price": 32.99,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "Rei Co-op Men's Trailmade Amphib Shirts"
+  },
+  {
+    "Name": "Knit Tech Shirt",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443632/Be%20comfree/zmcftylk4dsu7rqtgq7i.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443632/Be%20comfree/vqb60br6rtehzrqg3aow.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443633/Be%20comfree/sjos6hs1xwtt7uiemwki.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443633/Be%20comfree/am1qtm6ajbxgxcpqejoc.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White"],
+    "Material": ["Cotton", "Cotton Blend", "Linen"],
+    "Price": 69.98,
+    "Category": "Shirt",
+    "Gender": "Men",
+    "Description": "32 Degrees Men's Knit Tech Shirt"
+  },
+  {
+    "Name": "Women's Classic-Fit T-Shirt",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443634/Be%20comfree/wcpqn4nrdu2r99r5bbpc.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443634/Be%20comfree/zakexbmgavordsieqdcr.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443635/Be%20comfree/e0n8grwrjeiilfgg9uou.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443635/Be%20comfree/gqryqtnhz95jss9egtd2.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White", "Blue", "Red", "Green", "Black"],
+    "Material": ["Polyester"],
+    "Price": 36.99,
+    "Category": "Shirt",
+    "Gender": "Women",
+    "Description": "Real Essentials: Women's Classic-Fit Cotton Short-Sleeve Scoop Crew Neck T-Shirt (Available in Plus Size)"
+  },
+  {
+    "Name": "ZAAYO Shirt",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443636/Be%20comfree/wwd2e30iw7gmrrbusgb2.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443636/Be%20comfree/flgcqljk1fmz2fygoymt.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443637/Be%20comfree/vqsfonsmhmeuiztfl7v4.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White"],
+    "Material": ["Cotton"],
+    "Price": 35.09,
+    "Category": "Shirt",
+    "Gender": "Women",
+    "Description": "ZAAYO Women's Bamboo Cotton Linen V Neck Button Down Shirt Long/Roll Up Sleeve Casual Collared Work Blouse Top"
+  },
+  {
+    "Name": "Real Essentials",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443637/Be%20comfree/rvuq1w9opcyl1fpnhmyg.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443638/Be%20comfree/y6xq6j9lnkcc7myzpydt.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue", "Green"],
+    "Material": ["Polyester"],
+    "Price": 12.09,
+    "Category": "Shirt",
+    "Gender": "Women",
+    "Description": "Real Essentials: Women's Dry Fit Crop Top - Short Sleeve Crew Neck Stretch Athletic Tee (Available in Plus Size)"
+  },
+  {
+    "Name": "Aerie Shirt",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443639/Be%20comfree/vxrqcoxvthduelshly0e.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443639/Be%20comfree/f83xpomcgimbx1twh0oo.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443640/Be%20comfree/nrmpjkfkutf4myjj2srm.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443641/Be%20comfree/m3ydoqsntiikuojzwjfz.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Gray"],
+    "Material": ["Chiffon", "Polyester"],
+    "Price": 14.99,
+    "Category": "Shirt",
+    "Gender": "Women",
+    "Description": "Aerie Pool-To-Party Cover Up Shirt Women's"
+  },
+  {
+    "Name": "Women's Seamless T-Shirt",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443641/Be%20comfree/atuwgp9dusck0lropxoh.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443642/Be%20comfree/tzxtlytkvxe0zwgifgw1.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443642/Be%20comfree/lao3bz6yvjijtkjl4nwq.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443642/Be%20comfree/vzk0nrhbjkkg7lvmhsl6.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White", "Green", "Blue", "Black"],
+    "Material": ["Cotton", "Cotton Blend"],
+    "Price": 9.99,
+    "Category": "Shirt",
+    "Gender": "Women",
+    "Description": "Women's Seamless Fabric Square-Neck T-Shirt in Blue Size XS Long from Hollister"
+  },
+  {
+    "Name": "Zeagoo Shirt",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443643/Be%20comfree/rgbgzisndsqdq2gytbzb.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443643/Be%20comfree/xojglcg5kog6hkpfwv8d.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443644/Be%20comfree/urwvkipapucvajkk9zuc.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443645/Be%20comfree/knrufqfvbnohtb243xca.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443646/Be%20comfree/szgmtr2agc6mkigter1q.jpg"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Purple", "Blue", "Black", "Gray", "White"],
+    "Material": ["Polyester"],
+    "Price": 34.99,
+    "Category": "Shirt",
+    "Gender": "Women",
+    "Description": "Zeagoo Women's Casual Swiss Dot Chiffon Summer Tops Round Neck Blouse Shirts Short Sleeve Work Office Loose Shirt"
+  },
+  {
+    "Name": "Short-Sleeve",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443646/Be%20comfree/nlnsjtdrar7hhgupafat.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443647/Be%20comfree/z7ple02zhlxppfolcuhw.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443647/Be%20comfree/p8rb2yjccy4gmn7ympvu.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443648/Be%20comfree/qxingnma9s707ttwlbfw.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue"],
+    "Material": ["Cotton"],
+    "Price": 35.09,
+    "Category": "Short",
+    "Gender": "Women",
+    "Description": "Women's Sonoma Goods for Life Short-Sleeve Crew Tee"
+  },
+  {
+    "Name": "Real Essentials T-Shirt",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443648/Be%20comfree/ntmn9wqapqdwsiaoq7nd.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443649/Be%20comfree/jj9rocmc7sa0cpw7zgur.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443650/Be%20comfree/juswqh1ppf0gwgigrr8v.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443650/Be%20comfree/aeoalhjdomugqracpyv7.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black"],
+    "Material": ["Cotton"],
+    "Price": 6.49,
+    "Category": "Shirt",
+    "Gender": "Women",
+    "Description": "Real Essentials: Women's Dry Fit Tech Stretch Short-Sleeve Crew Neck Athletic T-Shirt (Available in Plus Size)"
+  },
+  {
+    "Name": "Aerie Shirt",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443652/Be%20comfree/icu6ttfye5cc9mon3sno.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443652/Be%20comfree/c3jaedv0ziimvejiakit.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443653/Be%20comfree/pucfubzxk48914qkbcwi.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443654/Be%20comfree/mhrn66nl5xuf6xp8dkih.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White", "Blue"],
+    "Material": ["Polyester"],
+    "Price": 19.09,
+    "Category": "Shirt",
+    "Gender": "Women",
+    "Description": "Aerie Pool-To-Party Cover Up Shirt Women's"
+  },
+  {
+    "Name": "Old Navy T-Shirt",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443654/Be%20comfree/kyntq06lunpiln2bchxi.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443655/Be%20comfree/dodawxkcvdm5ra4zxncy.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443655/Be%20comfree/e5vybryjxewk41btcghu.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443656/Be%20comfree/d1erntslpqi905xfbive.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue", "White"],
+    "Material": ["Cotton"],
+    "Price": 39.9,
+    "Category": "Shirt",
+    "Gender": "Women",
+    "Description": "Old Navy Women's Everywear Crew-Neck T-Shirt"
+  },
+  {
+    "Name": "Maurices Shirts & Blouses",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443657/Be%20comfree/bnezjmjnsefprwdwkjbo.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443657/Be%20comfree/kxp9r8nj4lhpe3ir3vgh.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443658/Be%20comfree/szqbz3xiqtsbyo4sownv.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443658/Be%20comfree/ydywsleqhfkwsumdxylu.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue", "Gray"],
+    "Material": ["Cotton"],
+    "Price": 11.99,
+    "Category": "Shirt",
+    "Gender": "Women",
+    "Description": "Maurices Women's Small Size Atwood 3/4 Sleeve Popover Blouse White - Shop The Look - Work Wear Essentials - Shirts & Blouses"
+  },
+  {
+    "Name": "Zara Shirt",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443659/Be%20comfree/yka7xojipuuai4cxard2.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443660/Be%20comfree/wpba1wnatcuvbt70xv3x.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443661/Be%20comfree/deiofktlyx3auldsgmlw.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443662/Be%20comfree/ybqtzzjggfjg9g2zrcee.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White"],
+    "Material": ["Chiffon", "Denim", "Polyester"],
+    "Price": 19.99,
+    "Category": "Shirt",
+    "Gender": "Women",
+    "Description": "Zara - Fitted Poplin Shirt -Women"
+  },
+  {
+    "Name": "Degrees T-Shirt",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443663/Be%20comfree/bfjgx65yacdibhq9c4hs.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443664/Be%20comfree/s8kkkebk0p0vguvxvgeh.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443665/Be%20comfree/gvnwqk3yupqdqeuy9qw2.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443665/Be%20comfree/w2fpuqxppixhjwmgvs1k.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White"],
+    "Material": ["Denim", "Polyester"],
+    "Price": 66.25,
+    "Category": "Shirt",
+    "Gender": "Women",
+    "Description": "32 Degrees Women's Cool Long Sleeve Hooded T-Shirt Inky Indigo Heather"
+  },
+  {
+    "Name": "Blooming Tshirt",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443666/Be%20comfree/htbjcppbgewp7lnvxpnu.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443666/Be%20comfree/ab16ufktutu47tnmk8es.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443667/Be%20comfree/yponqykqbbchvnpw6sfx.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443668/Be%20comfree/p18ooifwiybtia1s7a3o.jpg"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White"],
+    "Material": ["Cotton"],
+    "Price": 17.49,
+    "Category": "Shirt",
+    "Gender": "Women",
+    "Description": "Blooming Jelly Women's Dressy Casual Tops Business Work Blouses White Button Down Shirts Cap Sleeve V Neck Tshirt"
+  },
+  {
+    "Name": "Dokotoo Floral Shirts",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443668/Be%20comfree/kim6buishcljegzhxxxp.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443669/Be%20comfree/lbrx7ol8dwqybnl5vbp5.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443670/Be%20comfree/j30i63xumurfnv2hkpxz.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443670/Be%20comfree/bfb65jjwq2qdxg8hk1mk.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443671/Be%20comfree/d3zopcspxdoapnefpo9z.jpg"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White"],
+    "Material": ["Cotton"],
+    "Price": 39.95,
+    "Category": "Shirt",
+    "Gender": "Women",
+    "Description": "Dokotoo Floral Print Blouses for Women Crewneck Smocked Puff Sleeve Shirts Casual Babydoll Tops"
+  },
+  {
+    "Name": "Women's Shirt-Sleeve Floral",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443672/Be%20comfree/zkgirzcnv8hhr6ozcwnr.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443672/Be%20comfree/qc5tzq54ykk70nrzbeg7.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443673/Be%20comfree/s8cwl9p1119ds4qxj9kt.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443673/Be%20comfree/cjfoc7yo6uqi0nfw4jms.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443674/Be%20comfree/upk9m7xtosft5dnlxkgi.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black", "Yellow", "Pink", "Blue", "Green"],
+    "Material": ["Cotton", "Cotton Blend"],
+    "Price": 11.99,
+    "Category": "Shirt",
+    "Gender": "Women",
+    "Description": "Women's Shirt-Sleeve Floral Graphic Skimming Abercrombie & Fitch"
+  },
+  {
+    "Name": "Shirt Hollister",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443674/Be%20comfree/p9hsfijlolouazj3598m.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443675/Be%20comfree/mnmbe8y6jxd98sak67a8.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443675/Be%20comfree/xtkeo5ghndzzirtilxzj.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White"],
+    "Material": ["Linen", "Rayon"],
+    "Price": 19.99,
+    "Category": "Shirt",
+    "Gender": "Women",
+    "Description": "Women's Easy Icon Popover Shirt Stripe from Hollister"
+  },
+  {
+    "Name": "Shirt H&M",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443676/Be%20comfree/diwhyfeyhfiwhrypppnk.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443676/Be%20comfree/ezaxpzyffe9cjgwujbv0.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443677/Be%20comfree/rygcpne2jvqzsepmqcwt.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White"],
+    "Material": ["Jersey", "Polyester", "Rayon"],
+    "Price": 17.59,
+    "Category": "Shirt",
+    "Gender": "Women",
+    "Description": "Ladies - White Linen-Blend Shirt H&M"
+  },
+  {
+    "Name": "Liz Claiborne T-shirts",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443678/Be%20comfree/eid2bfbkniw0i2vldsnw.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443679/Be%20comfree/epdw9wy8nmjv0i0moqmf.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue", "Brown"],
+    "Material": ["Rayon", "Spandex"],
+    "Price": 14.99,
+    "Category": "Shirt",
+    "Gender": "Women",
+    "Description": "Liz Claiborne Womens Split Crew Neck Short Sleeve T-Shirt Petites Petite Shirts + Tops T-shirts | Spring Fashion"
+  },
+  {
+    "Name": "AUTOMET Shirts",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443679/Be%20comfree/ouscylmxk69ljqrijmzd.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443680/Be%20comfree/xwf1m411dm6lixhjk8li.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443680/Be%20comfree/dat6vzgdm6xpictmmy1k.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443681/Be%20comfree/xognn8dhevcccvov2q9o.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White"],
+    "Material": ["Polyester"],
+    "Price": 39.09,
+    "Category": "Shirt",
+    "Gender": "Women",
+    "Description": "AUTOMET Womens Short Sleeve Round Neck Shirts Summer Fashion Basic Tee"
+  },
+  {
+    "Name": "Lulus Sleeve Topp",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443681/Be%20comfree/bwuwndtiy3dabta87eyf.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443681/Be%20comfree/uzjxmen8wi3wxocctue9.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443682/Be%20comfree/f3jmwrnjhi1zz7natnrh.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443683/Be%20comfree/m8w1gib3zhptplxzqkyj.jpg"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue"],
+    "Material": ["Polyester", "Rayon"],
+    "Price": 34.95,
+    "Category": "Shirt",
+    "Gender": "Women",
+    "Description": "Lulus | Camrose White Geometric Print Button-Up Long Sleeve Topp 100% Polyester"
+  },
+  {
+    "Name": "Top Hollister",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443683/Be%20comfree/jyfelqgrk4npyetprlgj.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443684/Be%20comfree/g8vdbfojdshkzkr8wu9u.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443685/Be%20comfree/cqimskpzi2r6dswuilmn.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443685/Be%20comfree/phhfikch5woaxucx9zkw.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443686/Be%20comfree/tixwtjy0rtlan0aj9wdn.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443686/Be%20comfree/w1p5gpireqp1pxtfmiv6.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Gray", "Blue", "White", "Green", "Black"],
+    "Material": ["Cotton", "Cotton Blend"],
+    "Price": 9.99,
+    "Category": "Shirt",
+    "Gender": "Women",
+    "Description": "Women's Ruched Babydoll Top in Blue Floral Size L from Hollister"
+  },
+  {
+    "Name": "Shirt-Sleeve Coxford",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443686/Be%20comfree/xnihljsykm3t70wyzip0.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443687/Be%20comfree/lbqgpxpdf13iwg97u56w.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443687/Be%20comfree/jhnwwsywm5hspmm2myf1.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443688/Be%20comfree/ici5vauk17xrdrz3ot2o.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443689/Be%20comfree/igbcgciriqicebh6vyur.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black", "White"],
+    "Material": ["Cotton"],
+    "Price": 14.59,
+    "Category": "Shirt",
+    "Gender": "Women",
+    "Description": "Women's Sonoma Goods for Life Shirt-Sleeve Crew Tee Oxford"
+  },
+  {
+    "Name": "J.Crew Pants-Sleeve",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443689/Be%20comfree/lcsacab2fsmblcbpe4lz.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443690/Be%20comfree/nkl188majpvopt16mmme.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443690/Be%20comfree/yesoaxgegan8ofovkecv.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443691/Be%20comfree/fxb5irn3ela0e2tkug3f.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Pink"],
+    "Material": ["Cotton Blend", "Denim"],
+    "Price": 33.59,
+    "Category": "Pants",
+    "Gender": "Women",
+    "Description": "J.Crew Factory Women's Cotton Pants-Sleeve Tee"
+  },
+  {
+    "Name": "GRAPENT Denim Coat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443691/Be%20comfree/fg5fjnoubcd4dufeypus.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443692/Be%20comfree/jgug30tqjqwdqqegwbog.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443692/Be%20comfree/fjynmo9rbl01t9i5yekl.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443693/Be%20comfree/hwg0zlm1wlufbmhq1rct.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White"],
+    "Material": ["Polyester"],
+    "Price": 49.99,
+    "Category": "Coat",
+    "Gender": "Women",
+    "Description": "GRAPENT Womens Flare Jeans High Waisted Wide Leg Baggy Jean for Women Stretch Denim Coat"
+  },
+  {
+    "Name": "Zara Coat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443693/Be%20comfree/j3ssucdqgubq1bke8yks.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443694/Be%20comfree/zkvwnpqif3csdmcyjbr5.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443694/Be%20comfree/auezo5679om8s9h27qwf.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Brown"],
+    "Material": ["Down", "Faux Fur", "Fleece", "Polyester", "Spandex"],
+    "Price": 33.43,
+    "Category": "Coat",
+    "Gender": "Women",
+    "Description": "Zara - Felt Texture Coat - Sand Marl - Women"
+  },
+  {
+    "Name": "Juranmo Coat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443695/Be%20comfree/cc2qgck3jymaoauaishg.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443695/Be%20comfree/e6u1ymguh7kvckaed8ro.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443696/Be%20comfree/jywb9t84oaifmnbo35tf.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black"],
+    "Material": ["Wool Blend"],
+    "Price": 108.29,
+    "Category": "Coat",
+    "Gender": "Women",
+    "Description": "Juranmo Women's Long Trench Coat Thicken Oversized Windproof Coat Extended Open Front Fashion Lapel Outerwear Peacoat with Belt"
+  },
+  {
+    "Name": "Bankeng Coat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443696/Be%20comfree/is1qiwrbqpgjbx7yq7vy.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443697/Be%20comfree/yr1hqbfongcgcpqppghp.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White"],
+    "Material": ["Wool"],
+    "Price": 58.98,
+    "Category": "Coat",
+    "Gender": "Women",
+    "Description": "Bankeng Women Winter Wool Blend Camel Mid-Long Coat Notch Double-Breasted Lapel Jacket Outwear"
+  },
+  {
+    "Name": "Chouyatou Coat Overcoat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443697/Be%20comfree/ktgno10icwmpiypwkpxm.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443698/Be%20comfree/dvxm9tozj2fx90qpw9kw.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443698/Be%20comfree/nbc2pmwq4ae8g3vwvo5e.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443699/Be%20comfree/dzcf8hppla8nbbcemyaz.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Green"],
+    "Material": ["Polyester", "Rayon", "Wool", "Wool Blend"],
+    "Price": 189.96,
+    "Category": "Coat",
+    "Gender": "Women",
+    "Description": "Chouyatou Women's Fall Winter Elegant Single Breasted Long Wool Coat Overcoat"
+  },
+  {
+    "Name": "Michael Coat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443700/Be%20comfree/zl3ghcdzat37fm2rn7dz.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443700/Be%20comfree/syovp2jkvoljdbvixox7.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443701/Be%20comfree/glv8qjgfdikr8zzx5jka.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443701/Be%20comfree/cttaxagnzev8dpkmh5vr.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue", "Brown"],
+    "Material": ["Nylon", "Polyester", "Taffeta"],
+    "Price": 24.55,
+    "Category": "Coat",
+    "Gender": "Women",
+    "Description": "Michael Michael Kors Women's Single-Breasted Wool Blend Coat, Created for Macy's"
+  },
+  {
+    "Name": "Amazon Essentials Coat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443702/Be%20comfree/zjikfhg3cwilocamw5z9.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443702/Be%20comfree/o0cyyxveqomjako8f56x.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443703/Be%20comfree/mhieohvcd8wpxyx5vh7k.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443703/Be%20comfree/yqzwycg3wuapdjn6f2yg.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443704/Be%20comfree/jme0euqpwaiw3yfxkbgz.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Purple", "Black"],
+    "Material": ["Polyester", "Wool Blend"],
+    "Price": 181.91,
+    "Category": "Coat",
+    "Gender": "Women",
+    "Description": "Amazon Essentials Women's Lightweight Water-Resistant Hooded Puffer Coat (Available in Plus Size)"
+  },
+  {
+    "Name": "Guess Coat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443704/Be%20comfree/bgwjcauqzf7upleoo0po.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443705/Be%20comfree/kjyogcylcaukzygaeb2z.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Gray"],
+    "Material": ["Faux Fur", "Polyester"],
+    "Price": 132.93,
+    "Category": "Coat",
+    "Gender": "Women",
+    "Description": "Guess Women's Double-Breasted Walker Coat"
+  },
+  {
+    "Name": "Steve Madden Coat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443705/Be%20comfree/b49fug1s9tcb5aeqiehf.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443706/Be%20comfree/waf2u4gnunl8f03td9mw.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443707/Be%20comfree/rkuc7qccnsm97o1sfm4w.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Brown"],
+    "Material": ["Faux Fur", "Polyester", "Wool"],
+    "Price": 40.99,
+    "Category": "Coat",
+    "Gender": "Women",
+    "Description": "Steve Madden Women's Winter Jacket - Heavyweight Quilted Puffer Parka Coat - Faux Fur Lined Outerwear Jacket for Women"
+  },
+  {
+    "Name": "Zeagoo Coat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443708/Be%20comfree/umwi9nke6wk0dywu0cse.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443708/Be%20comfree/yctfw4smsk80xzc0popu.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443709/Be%20comfree/k72kqfuwarszmjyv220w.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443709/Be%20comfree/widyyqjacqeiri30riki.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Brown"],
+    "Material": ["Polyester"],
+    "Price": 38.99,
+    "Category": "Coat",
+    "Gender": "Women",
+    "Description": "Zeagoo Women's Fashion Faux Fur Lapel Double-Breasted Thick Wool Trench Coat Winter Warm Jacket"
+  },
+  {
+    "Name": "Ny&Co Jacket",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443710/Be%20comfree/hyqhoi9sovajh4d8smpe.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443711/Be%20comfree/aup7y6dfaqyhueo92z8c.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443711/Be%20comfree/d4saxe7u3czcaeos8jfj.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443712/Be%20comfree/fke81g7lzu8rrvzvzfb8.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Brown"],
+    "Material": ["Polyester", "Wool", "Wool Blend"],
+    "Price": 94.05,
+    "Category": "Coat",
+    "Gender": "Women",
+    "Description": "Ny&Co Women's Long Sleeve Quilted Puffer Jacket Olive"
+  },
+  {
+    "Name": "Bernardo Coat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443712/Be%20comfree/zzxswuif3ymik8nta0ot.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443713/Be%20comfree/bfyqvylvvaxdcuw8jvhf.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443713/Be%20comfree/fuv9lntkcygbzpedttla.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443714/Be%20comfree/l37ln5wv7dzoryzfv0wi.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Brown"],
+    "Material": ["Polyester", "Rayon", "Spandex"],
+    "Price": 63.23,
+    "Category": "Coat",
+    "Gender": "Women",
+    "Description": "Bernardo Melton Wool Blend Coat in Cigar at Nordstrom"
+  },
+  {
+    "Name": "Lulus Coat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443714/Be%20comfree/pbm9ktsnsrxtticja9nd.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443714/Be%20comfree/dwi8kpxca40g28milpd6.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443715/Be%20comfree/ltpfnoz2uuviezjsj7pp.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Beige", "White"],
+    "Material": [
+      "Cashmere",
+      "Denim",
+      "Faux Fur",
+      "Faux Leather",
+      "Fleece",
+      "Polyester"
+    ],
+    "Price": 33.43,
+    "Category": "Coat",
+    "Gender": "Women",
+    "Description": "Lulus | Harriet Tan Coat | Women's"
+  },
+  {
+    "Name": "Juranmo Coat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443716/Be%20comfree/e3cpkpybxsbpc0vneet5.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443716/Be%20comfree/f1iscmvwmo5cwz8drv0h.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443717/Be%20comfree/t2y3j7h6j8trpjt6fogm.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443717/Be%20comfree/epqxzlnfuxdqjc6dxxvs.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443718/Be%20comfree/hhf2e136blpoqmzkxdov.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Green", "Pink", "Black", "Purple"],
+    "Material": ["Acrylic Fiber", "Cotton Blend", "Polyester"],
+    "Price": 199.94,
+    "Category": "Coat",
+    "Gender": "Women",
+    "Description": "Juranmo Women's Long Trench Coat Thicken Oversized Windproof Coat Extended Open Front Fashion Lapel Outerwear Peacoat with Belt"
+  },
+  {
+    "Name": "Women's All-Season Jacket",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443718/Be%20comfree/fgjqrr0woambtlwuej9e.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443719/Be%20comfree/auqdovmieizzwx5978is.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443720/Be%20comfree/hedlfixvmgkfgrphfx0e.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443720/Be%20comfree/mjukhhczjhz2djxgqfsd.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black"],
+    "Material": ["Cotton Blend", "Down", "Faux Fur", "Polyester"],
+    "Price": 117.11,
+    "Category": "Coat",
+    "Gender": "Women",
+    "Description": "Women's All-Season Jacket"
+  },
+  {
+    "Name": "Roiii Coat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443721/Be%20comfree/uvpduodm2lg5fvfqcdfd.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443722/Be%20comfree/qlbp4hd5mdctu6udo5wv.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443723/Be%20comfree/enfim3sbb11eqehtvurl.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Green", "Red"],
+    "Material": ["Faux Fur", "Faux Leather", "Genuine Fur", "Polyester"],
+    "Price": 129.92,
+    "Category": "Coat",
+    "Gender": "Women",
+    "Description": "Roiii Women Thicken Warm Winter Coat Hood Down Parka Faux Fur Outdoor Overcoat Long Jacket Outwear"
+  },
+  {
+    "Name": "Legendary Parka",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443724/Be%20comfree/fsqbrgzktsmomdrnates.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443726/Be%20comfree/dv4kjkmdwhqw9hqu1x3t.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443726/Be%20comfree/kdivyydmjazth33ekbxp.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443727/Be%20comfree/isjbt60hc5trxmhwyuvu.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Pink"],
+    "Material": [
+      "Acrylic Fiber",
+      "Faux Leather",
+      "Nylon",
+      "Polyester",
+      "Spandex",
+      "Velvet"
+    ],
+    "Price": 148.66,
+    "Category": "Coat",
+    "Gender": "Women",
+    "Description": "Coat Legendary Whitetails Women's Anchorage Parka"
+  },
+  {
+    "Name": "Calvin Klein Coat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443728/Be%20comfree/rzqdn7qrvtteg3s602ih.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443728/Be%20comfree/vxernsngtmg4y3pmirtx.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443729/Be%20comfree/ozwtquqe0cdp7tda4gxo.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Brown"],
+    "Material": ["Polyester", "Taffeta"],
+    "Price": 39.99,
+    "Category": "Coat",
+    "Gender": "Women",
+    "Description": "Calvin Klein Women's Belted Wrap Coat, Created for Macy's"
+  },
+  {
+    "Name": "Long Puffer Jacket Coat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443729/Be%20comfree/nu2dglg6dazcxf4kktar.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443730/Be%20comfree/vnesw1kz8t5kqexwjvac.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443730/Be%20comfree/lnsmzogudgwufzgwe39i.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Green", "Black"],
+    "Material": ["Fleece", "Polyester", "Spandex"],
+    "Price": 160.07,
+    "Category": "Coat",
+    "Gender": "Women",
+    "Description": "Women's Long Puffer Jacket Coat with Hood - S.E.B. by Sebby Duck"
+  },
+  {
+    "Name": "Cuddl Duds Coat",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443730/Be%20comfree/dtrw3y5q7hs6fdgcu5oi.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443731/Be%20comfree/uduxkpwim05wdnqqfdsy.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443732/Be%20comfree/w9lpgio7yhmlw6lv51vy.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443732/Be%20comfree/gvjo5xv1iyohfb3pufat.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443733/Be%20comfree/xgzbmw1naz1ncs2kttfc.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Beige", "Blue", "Pink"],
+    "Material": ["Mesh", "Polyester"],
+    "Price": 89.95,
+    "Category": "Coat",
+    "Gender": "Women",
+    "Description": "Women's Cuddl Duds Long Hooded Puffer Coat"
+  },
+  {
+    "Name": "Beauty's Underwear",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443734/Be%20comfree/tlrnfsphmgft9auwzkvy.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443734/Be%20comfree/u4lfqgsi3ii9quaukhqb.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443735/Be%20comfree/tdiept4fnsf7qcjbbei3.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Gray", "Black", "Blue"],
+    "Material": ["Cotton Blend"],
+    "Price": 19.99,
+    "Category": "Underwear",
+    "Gender": "Women",
+    "Description": "Women's Pack-It Underwear - Mushroom - PS - Petite Size"
+  },
+  {
+    "Name": "Emprella Bikini",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443735/Be%20comfree/zmqxetksuifm8bgsk9fc.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443736/Be%20comfree/sjz9biccixapmo7he3kc.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443737/Be%20comfree/lhb6kuswid6iytzf0plx.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black", "White", "Brown"],
+    "Material": ["Spandex"],
+    "Price": 10.02,
+    "Category": "Underwear",
+    "Gender": "Women",
+    "Description": "Emprella Women Underwear, 10 Pack Womens Cotton Stretch Bikini Panties for Ladies"
+  },
+  {
+    "Name": "Hipster Underwear",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443738/Be%20comfree/jhnfxuamiw4xsumzinm2.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443739/Be%20comfree/kti8yp9jnsorfeeoyrar.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443740/Be%20comfree/og4fpsvnvdpaart2omny.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black"],
+    "Material": ["Cotton Blend", "Spandex"],
+    "Price": 9.99,
+    "Category": "Underwear",
+    "Gender": "Women",
+    "Description": "Women's 6pk Hipster Underwear"
+  },
+  {
+    "Name": "YADIFEN 5/10 Pack Bikini",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443740/Be%20comfree/hkgg6ukfyq0cc5ssgu1n.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443741/Be%20comfree/x1z1wcuc47gjuvemyldc.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Green"],
+    "Material": ["Cotton"],
+    "Price": 17.18,
+    "Category": "Underwear",
+    "Gender": "Women",
+    "Description": "YADIFEN 5/10 Pack Cotton Underwear for Women Hipster Panties Low Briefs Bikini Underwears"
+  },
+  {
+    "Name": "Green Bikini Panties",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443742/Be%20comfree/jvrzrg3elkck5fbkpq11.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443742/Be%20comfree/knypdr3h7lvvxyiwczok.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443743/Be%20comfree/yuwqpmzemrduxj4zcn9r.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Brown"],
+    "Material": ["Cotton Blend", "Nylon", "Polyester", "Spandex"],
+    "Price": 8.95,
+    "Category": "Underwear",
+    "Gender": "Women",
+    "Description": "Green Bikini Panties"
+  },
+  {
+    "Name": "Aerie Superchill Underwear",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443743/Be%20comfree/hedky2skskej4qle9ifq.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443744/Be%20comfree/pakkje3xihobculghhjt.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443744/Be%20comfree/je9edh3piymbbhumioix.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443745/Be%20comfree/fjy3r7v50nrhgy2qrosj.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Gray"],
+    "Material": ["Cotton", "Lace"],
+    "Price": 33.85,
+    "Category": "Underwear",
+    "Gender": "Women",
+    "Description": "Aerie Superchill Seamless Logo Boybrief Underwear Women's Toasty"
+  },
+  {
+    "Name": "KNITLORD Bikini 5 Pack",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443745/Be%20comfree/zb2i8a88tetnqvthfqts.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443746/Be%20comfree/wh1emkgit2tpesdgjxuj.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443747/Be%20comfree/yiaygpzm3cqwajyv7qvm.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443747/Be%20comfree/uww7mawxvxv1kcux5ovq.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White"],
+    "Material": ["Cotton Blend", "Spandex"],
+    "Price": 6.06,
+    "Category": "Underwear",
+    "Gender": "Women",
+    "Description": "KNITLORD Women's Underwear Cotton or Viscose Soft Bikini 5 Pack"
+  },
+  {
+    "Name": "Hi-Cut Cheeky Underwear",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443748/Be%20comfree/kuuibovkehb9dycjqqi6.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443749/Be%20comfree/ziwlthotebxrlaocxbcb.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Red", "Green"],
+    "Material": ["Polyester"],
+    "Price": 18.95,
+    "Category": "Underwear",
+    "Gender": "Women",
+    "Description": "Women's Cotton Stretch Hi-Cut Cheeky Underwear"
+  },
+  {
+    "Name": "Rei Co-op Underwear",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443749/Be%20comfree/ayztelxvf1qo8qvihksv.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443750/Be%20comfree/cq1cktbvi2q1i1hdh00q.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443750/Be%20comfree/rcc4bjhm6kfageag7kis.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443751/Be%20comfree/ns1ns2ns4xtiswyxzu4q.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black"],
+    "Material": ["Spandex"],
+    "Price": 15.01,
+    "Category": "Underwear",
+    "Gender": "Women",
+    "Description": "Rei Co-op Women's Active Hipster Underwear"
+  },
+  {
+    "Name": "Urban Outfitters",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443751/Be%20comfree/o5qttfxmh0mdp123rnv0.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443752/Be%20comfree/fhnhef4ikiqusqxo539s.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White", "Pink"],
+    "Material": ["Cotton Blend"],
+    "Price": 16.95,
+    "Category": "Underwear",
+    "Gender": "Women",
+    "Description": "Underwear Out from Under Back to Basics High-Waisted Brief in Black, Women's at Urban Outfitters"
+  },
+  {
+    "Name": "Essential Bikini",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443753/Be%20comfree/ftc11rzh3qiywaurplor.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443753/Be%20comfree/bku8aadtszg7vtvzm1d0.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443754/Be%20comfree/xobduga0ezpjondfbcdj.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443754/Be%20comfree/stltqbxdabcwuyttjy9f.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443755/Be%20comfree/u5unv6eeaapmipaf2x2k.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Pink", "Gray", "Red", "Black", "White"],
+    "Material": ["Nylon", "Polyester", "Spandex"],
+    "Price": 14.98,
+    "Category": "Underwear",
+    "Gender": "Women",
+    "Description": "Essentials Women's 6-Pack Cotton Bikini"
+  },
+  {
+    "Name": "Reebok Panties",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443756/Be%20comfree/wxzhbo8s1z0oqxiqhswg.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443756/Be%20comfree/lvpojm2q5sqoiqqgga62.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443757/Be%20comfree/mqq3ne3xry4j865k2zx7.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue", "Gray", "White", "Red", "Beige"],
+    "Material": ["Cotton Blend", "Spandex"],
+    "Price": 17.95,
+    "Category": "Underwear",
+    "Gender": "Women",
+    "Description": "Reebok Womens Seamless Hipster Panties 5-Pack Gray Pink Black White Red Medium"
+  },
+  {
+    "Name": "Amazon Essentials Dress",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443758/Be%20comfree/y4bzicgdxjts2lcikee3.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443758/Be%20comfree/cgd5vkwwbgs1s8kyusyz.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443759/Be%20comfree/yjy7hgotrrhigdfvhpk5.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue"],
+    "Material": ["Polyester"],
+    "Price": 43.99,
+    "Category": "Dress",
+    "Gender": "Women",
+    "Description": "Amazon Essentials Women's Cotton Stretch Dress, Warm/Cool Prints, Medium"
+  },
+  {
+    "Name": "FENJAR Dress",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443759/Be%20comfree/nrstvrzdwtzuw7mdsx8o.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443760/Be%20comfree/dpth2gwzcwm3sn4swihn.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Red"],
+    "Material": ["Polyester"],
+    "Price": 29.04,
+    "Category": "Dress",
+    "Gender": "Women",
+    "Description": "FENJAR Womens Elegance Audrey Hepburn Style Ruched 3/4 Sleeve Midi A-Line Dress Blue, Small"
+  },
+  {
+    "Name": "Sarin Mathews Dress",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443761/Be%20comfree/ozgkq9jfa0mgvzzghpxk.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443762/Be%20comfree/p3nffkn5fdtfvgax4bkt.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue"],
+    "Material": ["Polyester"],
+    "Price": 34.99,
+    "Category": "Dress",
+    "Gender": "Women",
+    "Description": "Sarin Mathews Women Off The Shoulder Short Sleeve High Low Cocktail Skater Dress"
+  },
+  {
+    "Name": "Simple Flavor Dress",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443762/Be%20comfree/beklq3n6jhfdyqupesdd.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443763/Be%20comfree/ksgqbysrxpj4pdxyorz7.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443764/Be%20comfree/ggkyryd4uf3fqcvrh21h.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443764/Be%20comfree/pscbwfw5aftrdcccit9t.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Pink"],
+    "Material": ["Polyester"],
+    "Price": 59.02,
+    "Category": "Dress",
+    "Gender": "Women",
+    "Description": "Simple Flavor Women's Floral Vintage Dress Elegant Midi Evening Dress 3/4 Sleeves"
+  },
+  {
+    "Name": "Lulus Dress",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443765/Be%20comfree/u2zryqr5wqfu59zqlgxj.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443765/Be%20comfree/votscmutaej6i5qqc2tp.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443766/Be%20comfree/e6mqq413aev6ihtdvest.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443766/Be%20comfree/wmxdwc14ekb1tskbqqsh.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Green", "White", "Pink"],
+    "Material": ["Cotton"],
+    "Price": 19.99,
+    "Category": "Dress",
+    "Gender": "Women",
+    "Description": "Lulus | Next to You Rusty Rose Swiss Dot Ruffled Midi Dress"
+  },
+  {
+    "Name": "Sonoma Goods Dress",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443767/Be%20comfree/ewh9ndo0nzphpo9r9cqw.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443767/Be%20comfree/gcnsemuq8uwnbcyvojfm.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443768/Be%20comfree/ktpflqfhg5aosbnqgpml.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443768/Be%20comfree/au7ifnmyoeudb6h8veen.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White"],
+    "Material": ["Cotton"],
+    "Price": 49.55,
+    "Category": "Dress",
+    "Gender": "Women",
+    "Description": "Women's Sonoma Goods for Life Belted Knit Dress"
+  },
+  {
+    "Name": "Francesca's Dress",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443769/Be%20comfree/ogsrmmlvwsy8aqjagoik.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443769/Be%20comfree/gvwnnieimydbl9ne8by2.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443770/Be%20comfree/xwjkgzmal4rlmtxchos7.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443770/Be%20comfree/jnwltvdahhls6ty2vep2.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue", "Black"],
+    "Material": ["Faux Leather"],
+    "Price": 73.68,
+    "Category": "Dress",
+    "Gender": "Women",
+    "Description": "Francesca's Vinnie Postcard Print Midi Dress"
+  },
+  {
+    "Name": "Oten Dress",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443771/Be%20comfree/eaji9xwtu429vob7tfis.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443772/Be%20comfree/iwml5hhxlnevg7tugiqx.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443772/Be%20comfree/qsiovgxz6g3dgnvytopw.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443772/Be%20comfree/lmqgfmrafycugevwdbvz.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue", "Gray", "Black"],
+    "Material": ["Polyester"],
+    "Price": 35.02,
+    "Category": "Dress",
+    "Gender": "Women",
+    "Description": "Oten Womens Deep V Neck Ruffle Sleeve Sheath Casual Cocktail Party Work Faux Wrap Dress"
+  },
+  {
+    "Name": "Barrow Dress",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443773/Be%20comfree/xqiyydfrh7pujnibkddw.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443774/Be%20comfree/pe7bzntibtn0zqpcgoek.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443774/Be%20comfree/gpcvijh20un0niwppq3i.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443775/Be%20comfree/hk8x97n41dpswk70ud5g.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Green"],
+    "Material": ["Polyester"],
+    "Price": 62.01,
+    "Category": "Dress",
+    "Gender": "Women",
+    "Description": "Women's Croft & Barrow Elbow Sleeve A-Line Ponte Dress"
+  },
+  {
+    "Name": "Lulus Dress",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443775/Be%20comfree/mae8nrriwzzxmhlyswqt.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443776/Be%20comfree/vzygkyduaa4howxd6ziu.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443777/Be%20comfree/dcpcvzoanjksa3ypmyxr.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue", "White"],
+    "Material": ["Chiffon"],
+    "Price": 38.99,
+    "Category": "Dress",
+    "Gender": "Women",
+    "Description": "Lulus | Darling Daisies Green Floral Print Midi Dress"
+  },
+  {
+    "Name": "Lightinthebox Dress",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443778/Be%20comfree/mnxej6ybi9mw9wyb98nh.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443779/Be%20comfree/kpazphh05wgbeu9p8c88.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443779/Be%20comfree/bmmzspxov7mqhhytholy.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443780/Be%20comfree/utbplse2lcjfklb4cqn0.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443781/Be%20comfree/hy4sixslem8xvrydktby.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Green", "Pink"],
+    "Material": ["Cotton Blend"],
+    "Price": 11.97,
+    "Category": "Dress",
+    "Gender": "Women",
+    "Description": "Lightinthebox Women's Two Piece Dress Set Party Dress Dress Set Formal Party Fashion Elegant Patchwork Midi Dress Crew Neck 3 4 Length Sleeve Plain Regular Fit Blue"
+  },
+  {
+    "Name": "Old Navy Dress",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443781/Be%20comfree/hczanfykajb74stipzbq.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443782/Be%20comfree/n9xlpguv0nkljpfybcym.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443783/Be%20comfree/vqakvzrxcta5kut9czwn.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443784/Be%20comfree/lnyo9tbxzw2kp61ez6pu.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black"],
+    "Material": ["Linen"],
+    "Price": 38.46,
+    "Category": "Dress",
+    "Gender": "Women",
+    "Description": "Old Navy Women's Fitted Square-Neck Mini Dress"
+  },
+  {
+    "Name": "Aerie Dress",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443784/Be%20comfree/o1tiojpaoaygyyedos52.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443785/Be%20comfree/sxmd35ib0chd1ozvjqbb.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443785/Be%20comfree/tdutguhzftjuqcjtez7k.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443785/Be%20comfree/cvu2e6qnfm5xcby0ktlb.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Beige", "White"],
+    "Material": ["Polyester", "Sweater"],
+    "Price": 118.02,
+    "Category": "Dress",
+    "Gender": "Women",
+    "Description": "Aerie Love of Linen Blend Mini Dress Women's"
+  },
+  {
+    "Name": "Express Dress",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443786/Be%20comfree/ksbpoirdawl3y2wk4nui.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443787/Be%20comfree/awfvruhamg3jbnjjpuzn.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443788/Be%20comfree/kser7oatxqegpa0zb4f3.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443789/Be%20comfree/tfzzkvozcysep3njkihz.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Green", "Beige"],
+    "Material": ["Polyester"],
+    "Price": 54.99,
+    "Category": "Dress",
+    "Gender": "Women",
+    "Description": "Express Date Night,Cocktail & Party,Casual,Work Pleated Mock Neck Midi Sweater Dress"
+  },
+  {
+    "Name": "PRETTYGARDEN Dresses",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443789/Be%20comfree/qoibqz0h7b9jwimgyl6l.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443790/Be%20comfree/ywhuqsylqoseaqfewjoo.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443791/Be%20comfree/bc7yih6a8s8r8ljljhad.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443791/Be%20comfree/iqst1gyimfhigrmq1col.jpg"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["White"],
+    "Material": ["Polyester"],
+    "Price": 59.95,
+    "Category": "Dress",
+    "Gender": "Women",
+    "Description": "PRETTYGARDEN Women's 2024 Fall Midi Dress Casual Long Sleeve V Neck Swiss Dot Pleated A Line Flowy Dresses"
+  },
+  {
+    "Name": "Dress Hollister",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443792/Be%20comfree/erwfkwptmfv94hcwjb5m.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443793/Be%20comfree/l7xjb3ifttrsxbqyww3g.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443793/Be%20comfree/rkooy9atsiisbiydpy5l.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443794/Be%20comfree/a8jps5e1ji36wdnvmlwi.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black"],
+    "Material": ["Chiffon", "Lace", "Polyester"],
+    "Price": 58.01,
+    "Category": "Dress",
+    "Gender": "Women",
+    "Description": "Women's Saidie Double-Tier Skort Dress from Hollister"
+  },
+  {
+    "Name": "Lulus Pants",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443794/Be%20comfree/tq7t0bzc9ncw64lhmtqv.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443795/Be%20comfree/yipgxr0fz4jepxokorfa.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443795/Be%20comfree/iicmtvlfgpporcdmznmx.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Black", "White", "Red"],
+    "Material": ["Polyester", "Spandex"],
+    "Price": 24.99,
+    "Category": "Pants",
+    "Gender": "Women",
+    "Description": "Lulus | Lust or Love Black Embroidered Lace Long Sleeve Pants"
+  },
+  {
+    "Name": "Lucuna Pants",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443796/Be%20comfree/k3sq5wtnenbiwduxvbyp.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443797/Be%20comfree/rtstflw5hqswsvzuttww.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443798/Be%20comfree/g0jbirmxkmepaxsxvn84.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443798/Be%20comfree/ync6nqciha3sfj1enhxy.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Gray", "Beige", "Blue", "Green"],
+    "Material": ["Linen", "Rayon"],
+    "Price": 34.99,
+    "Category": "Pants",
+    "Gender": "Women",
+    "Description": "Lucuna Women's Stretchy High Waisted Loose Fit Bootcut Office Work Long Pants with Belt"
+  },
+  {
+    "Name": "Sonoma Goods Pants",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443799/Be%20comfree/twgnsjuqultgr0tmrrg4.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443800/Be%20comfree/vugtrrkaeuai0ev7r5nk.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443801/Be%20comfree/t2xwubeqqxuwpwykerb0.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443802/Be%20comfree/avyhuhu4j51vlw8bxczl.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443802/Be%20comfree/dabvf0r6mski0eemcaty.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Gray"],
+    "Material": ["Polyester"],
+    "Price": 35.99,
+    "Category": "Pants",
+    "Gender": "Women",
+    "Description": "Women's Sonoma Goods for Life Comfort Waist Pants"
+  },
+  {
+    "Name": "NIMIN Dress Pants",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443803/Be%20comfree/oixs1pdtvutxwdzuipri.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443804/Be%20comfree/oooqvfpnpowy2mqfpq3x.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443805/Be%20comfree/r9s6cohbkfr6jnd1rksz.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443806/Be%20comfree/wv6h5ncngf5ppzh2svje.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Green"],
+    "Material": ["Linen", "Rayon"],
+    "Price": 19.99,
+    "Category": "Pants",
+    "Gender": "Women",
+    "Description": "NIMIN High Waisted Work Pants for Women Business Casual Office Dress Pants Trousers with Pockets 2023"
+  },
+  {
+    "Name": "Old Navy Pants",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443807/Be%20comfree/ftofvbyrlxxilc8a3adl.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443808/Be%20comfree/grdtdxxvixnwe0x1nhyz.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443809/Be%20comfree/smyyrmxmwn4osmwfe5qj.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443809/Be%20comfree/bmqkj2tgnd2aecsoyznn.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443810/Be%20comfree/ty2kujkhcqkm5znpjkuj.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Red", "Gray", "Black"],
+    "Material": ["Polyester"],
+    "Price": 36.99,
+    "Category": "Pants",
+    "Gender": "Women",
+    "Description": "Old Navy Women's High-Waisted Linen-Blend Wide-Leg Pants"
+  },
+  {
+    "Name": "Real Essentials Pants",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443810/Be%20comfree/ybcejjosj6b4jxw5z9oh.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443811/Be%20comfree/rsayceabsalx9itykal5.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443813/Be%20comfree/nwpma9xrfkgd21arengg.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443814/Be%20comfree/jq4pgz1snmeapyoxzavq.webp"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Beige"],
+    "Material": ["Linen", "Rayon"],
+    "Price": 19.99,
+    "Category": "Pants",
+    "Gender": "Women",
+    "Description": "Real Essentials: Women's Ultra-Soft Lounge Joggers Athletic Yoga Pants with Pockets (Available in Plus Size)"
+  },
+  {
+    "Name": "Old Navy Pants",
+    "ImageUrl": [
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443814/Be%20comfree/qpnpvhis1jnsod683s2v.webp",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443815/Be%20comfree/whxeebx2sxzzan84bjib.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443816/Be%20comfree/nbfwdgm0eti3arqeuint.jpg",
+      "https://res.cloudinary.com/dm7llqul3/image/upload/v1712443817/Be%20comfree/p87omv0l3txhahyrtru5.jpg"
+    ],
+    "Size": ["XS", "S", "M", "L", "XL"],
+    "Colour": ["Blue"],
+    "Material": ["Polyester", "Spandex"],
+    "Price": 29.95,
+    "Category": "Pants",
+    "Gender": "Women",
+    "Description": "Old Navy Women's High-Waisted Linen-Blend Wide-Leg Pants"
+  }
+]
