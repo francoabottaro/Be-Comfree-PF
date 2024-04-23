@@ -37,7 +37,7 @@ Las tecnologias utilizadas son las siguientes:
 
 ### Front-End:
 
-- <a>Brenda Baumann</a>, <a href="https://www.linkedin.com/in/irma-nohemi-solis-loyo/">Nohemi Solis</a>, <a href="https://www.linkedin.com/in/jerry-murillo/">Jerry Murillo </a> y <a href="">Oswaldo Palacios</a>.
+- <a href="">Brenda Baumann</a>, <a href="https://www.linkedin.com/in/irma-nohemi-solis-loyo/">Nohemi Solis</a>, <a href="https://www.linkedin.com/in/jerry-murillo/">Jerry Murillo </a> y <a href="">Oswaldo Palacios</a>.
 
 <br/>
 <p align="center">
